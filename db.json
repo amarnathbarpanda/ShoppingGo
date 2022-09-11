@@ -1,11 +1,4 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" },
   "products": [
     {
       "id": 1,
@@ -185,66 +178,6 @@
       "rating": {
         "rate": 2.6,
         "count": 235
-      }
-    },
-    {
-      "id": 16,
-      "title": "Real Fruit Power Mixed Fruit Juice 1L",
-      "price": 105,
-      "description": "Every Réal fruit beverage is made from the juice of best quality fruits only.Réal undergoes 108 quality tests at various checkpoints for quality, fruit goodness, taste, nutrition and food safety. Réal beverages have no added preservatives or artificial colours or artificial flavors.",
-      "category": "food",
-      "image": "https://m.media-amazon.com/images/I/718s5Hnzt-L._SX679_.jpg",
-      "rating": {
-        "rate": 4.7,
-        "count": 15104
-      }
-    },
-    {
-      "id": 17,
-      "title": "Happilo Deluxe 100% Natural Dried Kashmiri Walnut",
-      "price": 279,
-      "description": "Rich source of potassium, iron and essential omega-3 High protein, dietary fiber, no gluten, no GMO, zero trans fat, zero cholesterol Hearts best friend, improves cardiovascular system and lowers bad cholesterolÂ.",
-      "category": "food",
-      "image": "https://m.media-amazon.com/images/I/71xOBwb-tCL._SX679_.jpg",
-      "rating": {
-        "rate": 4.8,
-        "count": 1049
-      }
-    },
-    {
-      "id": 18,
-      "title": "Sapphire Butter Cookies Gold Collection 400g ",
-      "price": 399,
-      "description": "Sapphire butter cookies are baked with only the finest ingredients to ensure that you will enjoy great taste in every bite. These cookies go great paired with a cup of coffee or tea.They are the perfect cookies for festive gatherings.",
-      "category": "food",
-      "image": "https://m.media-amazon.com/images/I/61WXYHK8jiS._SX679_.jpg",
-      "rating": {
-        "rate": 3.7,
-        "count": 344
-      }
-    },
-    {
-      "id": 19,
-      "title": "Cadbury Dairy Milk Silk Chocolate Bar, 150 g",
-      "price": 161,
-      "description": "Indulge in the irresistible taste of Silk Cadbury Dairy Milk is all about regaling in the chocolate's richness and creaminess allergen_information: Milk Indulge in a rich, smooth and creamy celebration allergen_information: Milk",
-      "category": "food",
-      "image": "https://m.media-amazon.com/images/I/610-Z27jggL._SX679_.jpg",
-      "rating": {
-        "rate": 4.5,
-        "count": 3321
-      }
-    },
-    {
-      "id": 20,
-      "title": "Nutrabay Foods Original Peanut Butter (Crunchy) - 400g ",
-      "price": 189,
-      "description": "Nutrabay Foods Original Peanut Butter is a superfood that can be enjoyed by everyone. It helps the body grow due to its high protein and healthy fat content. It can be used as a quick snack, as a part of a healthy diet or for a child's breakfast..",
-      "category": "food",
-      "image": "https://m.media-amazon.com/images/I/71IIdA9dlTL._SX679_.jpg",
-      "rating": {
-        "rate": 4.7,
-        "count": 517
       }
     }
   ]
